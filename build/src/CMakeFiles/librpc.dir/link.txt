@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/liblibrpc.a  CMakeFiles/librpc.dir/logger.cc.o CMakeFiles/librpc.dir/rpcApplication.cc.o CMakeFiles/librpc.dir/rpcChannel.cc.o CMakeFiles/librpc.dir/rpcConfig.cc.o CMakeFiles/librpc.dir/rpcController.cc.o CMakeFiles/librpc.dir/rpcProvider.cc.o CMakeFiles/librpc.dir/rpcheader.pb.cc.o CMakeFiles/librpc.dir/zkClient.cc.o
+/usr/bin/ranlib ../../lib/liblibrpc.a

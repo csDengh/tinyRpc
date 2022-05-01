@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/caller.dir/caller.cc.o CMakeFiles/caller.dir/__/operation.pb.cc.o  -o ../../../bin/caller ../../../lib/liblibrpc.a -lprotobuf -lmuduo_net -lmuduo_base -lprotobuf -lpthread -lzookeeper_mt 

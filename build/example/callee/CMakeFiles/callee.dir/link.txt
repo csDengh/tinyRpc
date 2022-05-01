@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/callee.dir/callee.cc.o CMakeFiles/callee.dir/__/operation.pb.cc.o  -o ../../../bin/callee ../../../lib/liblibrpc.a -lprotobuf -lmuduo_net -lmuduo_base -lprotobuf -lpthread -lzookeeper_mt 

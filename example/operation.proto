@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package operation;
+
+option cc_generic_services = true;
+
+message AddRequest
+{
+    int32 nums1 = 1;
+    int32 nums2 = 2;
+}
+
+
+message ResultHead
+{
+    int32 error = 1;
+    string errorMsg = 2;
+}
+
+message AddResponse
+{
+    ResultHead resultHead = 1;
+    int64 ans = 2;
+}
+
+service Operation
+{
+    rpc Add (AddRequest) returns (AddResponse);
+}

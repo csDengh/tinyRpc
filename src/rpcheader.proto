@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package tinyrpc;
+
+
+message rpcheader
+{
+    bytes serviceName = 1;
+    bytes methodName  = 2;
+    uint32 argcSize = 3;
+}
+
+

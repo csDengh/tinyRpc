@@ -1,0 +1,13 @@
+/root/tiny_rpc/build/CMakeFiles/rebuild_cache.dir
+/root/tiny_rpc/build/CMakeFiles/edit_cache.dir
+/root/tiny_rpc/build/src/CMakeFiles/rebuild_cache.dir
+/root/tiny_rpc/build/src/CMakeFiles/librpc.dir
+/root/tiny_rpc/build/src/CMakeFiles/edit_cache.dir
+/root/tiny_rpc/build/example/CMakeFiles/rebuild_cache.dir
+/root/tiny_rpc/build/example/CMakeFiles/edit_cache.dir
+/root/tiny_rpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/root/tiny_rpc/build/example/callee/CMakeFiles/callee.dir
+/root/tiny_rpc/build/example/callee/CMakeFiles/edit_cache.dir
+/root/tiny_rpc/build/example/caller/CMakeFiles/rebuild_cache.dir
+/root/tiny_rpc/build/example/caller/CMakeFiles/caller.dir
+/root/tiny_rpc/build/example/caller/CMakeFiles/edit_cache.dir
